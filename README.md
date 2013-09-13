@@ -1,7 +1,7 @@
 Smoked Alfred Theme
 ======
 
-![Smoked Screenshot](https://dl.dropboxusercontent.com/u/1154197/smoked_screenshot.png)
+![Smoked Screenshot](smoked_screenshot.png)
 
 
 For blurred background, run this in the terminal:
