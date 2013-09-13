@@ -1,5 +1,6 @@
 Smoked Alfred Theme
 ======
+Simple subtle theme for [Alfred](http://www.alfredapp.com/)
 
 ![Smoked Screenshot](smoked_screenshot.png)
 
