@@ -5,7 +5,7 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgx+E1z2DeGLbPYNkoSU+g2ZmJj+G
+	ZmZmg4MOnT2DwIuuPYNzCgw+g5qZWT+G
 	</data>
 	<key>border</key>
 	<data>
@@ -21,26 +21,26 @@
 	<key>name</key>
 	<string>Smoked</string>
 	<key>resultPaddingSize</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>resultSelectedBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg2QhKz2DZCErPYNkISs9g5qZGT+G
+	ZmZmg2QhKz2DZCErPYNkISs9g83MTD+G
 	</data>
 	<key>resultSelectedSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBg+F6FD+G
+	ZmZmAQEBgz0KFz+G
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAYPXD3w/g9TueD8Bhg==
+	ZmZmAQEBAYY=
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBgwAAgD6G
+	ZmZmAQEBg4/CdT6G
 	</data>
 	<key>resultSubtextFont</key>
 	<string>Lucida Grande</string>
@@ -57,8 +57,8 @@
 	<integer>1</integer>
 	<key>scrollbarColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg4/CVT+Dj8JVP4OPwlU/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg6yKFD0BAAGG
 	</data>
 	<key>searchBackgroundColor</key>
 	<data>
@@ -72,7 +72,7 @@
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBg83MTD+G
+	ZmZmAQEBAYY=
 	</data>
 	<key>searchPaddingSize</key>
 	<integer>0</integer>
@@ -96,8 +96,8 @@
 	ZoOamRk/AYY=
 	</data>
 	<key>uid</key>
-	<string>alfred.theme.custom.B835465E-7C64-4D2B-A0F8-857323097D30</string>
+	<string>alfred.theme.custom.DF309DAB-1204-41D2-A53E-48A68B85B775</string>
 	<key>widthSize</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
