@@ -5,7 +5,7 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg+8Gsz2DhYHGPYMffCA+g83MTD+G
+	ZmZmg4z4Yj+DfHBwP4Mne2c/g83MTD+G
 	</data>
 	<key>border</key>
 	<data>
@@ -17,30 +17,30 @@
 	<key>credits</key>
 	<string>Jeremy Bunting</string>
 	<key>imageStyle</key>
-	<integer>9</integer>
+	<integer>4</integer>
 	<key>name</key>
-	<string>Smoked</string>
+	<string>Smoked Day</string>
 	<key>resultPaddingSize</key>
 	<integer>0</integer>
 	<key>resultSelectedBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg2C8KD2DWY4fPYNkISs9g5qZGT+G
+	ZmZmgxW8bz8Bg81lcD+D4XpUP4Y=
 	</data>
 	<key>resultSelectedSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBg4/CNT+G
+	ZmZmAAAAg4/CNT+G
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBAYY=
+	ZmZmAAAAAYY=
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBg5qZGT6G
+	ZmZmAAAAgwrXIz6G
 	</data>
 	<key>resultSubtextFont</key>
 	<string>Menlo</string>
@@ -49,7 +49,7 @@
 	<key>resultTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4asLT+DhqwtP4OGrC0/g7geBT+G
+	ZmZmAAAAgzMzMz+G
 	</data>
 	<key>resultTextFont</key>
 	<string>Helvetica Neue Light</string>
@@ -58,7 +58,7 @@
 	<key>scrollbarColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg87ugT4Bg6y0zjwBhg==
+	ZmZmAIM2qzw/AQGG
 	</data>
 	<key>searchBackgroundColor</key>
 	<data>
@@ -72,7 +72,7 @@
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBAYY=
+	ZmZmAAAAAYY=
 	</data>
 	<key>searchPaddingSize</key>
 	<integer>0</integer>
@@ -84,7 +84,7 @@
 	<key>shortcutColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/AoMD8Bg1QHMT+DCtejPYY=
+	ZmZmg4sp1z6D02fVPoOHxPA+g4/CdT6G
 	</data>
 	<key>shortcutFont</key>
 	<string>Helvetica Neue Light</string>
@@ -93,10 +93,10 @@
 	<key>shortcutSelectedColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4OCgj4Bg8HAwDwBhg==
+	ZmZmAIO9vDw/AYNmZuY+hg==
 	</data>
 	<key>uid</key>
-	<string>alfred.theme.custom.DF309DAB-1204-41D2-A53E-48A68B85B775</string>
+	<string>alfred.theme.custom.7CEC4AE8-3D66-480A-9359-B2D145C1AB5E</string>
 	<key>widthSize</key>
 	<integer>2</integer>
 </dict>
