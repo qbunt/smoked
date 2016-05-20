@@ -4,7 +4,7 @@
       "textSpacing" : 6,
       "subtext" : {
         "size" : 11,
-        "colorSelected" : "#D5D5D5FF",
+        "colorSelected" : "#D5D5D5CD",
         "font" : "Source Code Pro",
         "color" : "#FEFFFF26"
       },
@@ -22,15 +22,15 @@
         "color" : "#BBBBBB84"
       },
       "iconPaddingHorizontal" : 12,
-      "paddingVertical" : 10,
-      "iconSize" : 31
+      "paddingVertical" : 7,
+      "iconSize" : 32
     },
     "search" : {
       "paddingVertical" : 9,
       "background" : "#29306C00",
       "spacing" : 0,
       "text" : {
-        "size" : 43,
+        "size" : 36,
         "colorSelected" : "#000000FF",
         "font" : "Helvetica Neue Light",
         "color" : "#FEFFFFD8"
@@ -38,13 +38,13 @@
       "backgroundSelected" : "#BFF6ACFF"
     },
     "window" : {
-      "color" : "#1D2135CC",
+      "color" : "#1D2135EA",
       "paddingHorizontal" : 0,
-      "width" : 511,
-      "borderPadding" : 10,
-      "borderColor" : "#24203A00",
-      "blur" : 16,
-      "roundness" : 3,
+      "width" : 500,
+      "borderPadding" : 19,
+      "borderColor" : "#FEFFFF08",
+      "blur" : 30,
+      "roundness" : -17,
       "paddingVertical" : 0
     },
     "credit" : "Jeremy Bunting",
