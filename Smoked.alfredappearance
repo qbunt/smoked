@@ -47,7 +47,7 @@
       "roundness" : -17,
       "paddingVertical" : 0
     },
-    "credit" : "Jeremy Bunting",
+    "credit" : "qbunt",
     "separator" : {
       "color" : "#00F90000",
       "thickness" : 0
@@ -56,6 +56,6 @@
       "color" : "#45F900FF",
       "thickness" : 2
     },
-    "name" : "Smoked (v2)"
+    "name" : "Smoked"
   }
 }

@@ -1,103 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>background</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4z4Yj+DfHBwP4Mne2c/g83MTD+G
-	</data>
-	<key>border</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg5GQED6DgYAAPoPq6Gg+AIY=
-	</data>
-	<key>cornerRoundness</key>
-	<integer>2</integer>
-	<key>credits</key>
-	<string>Jeremy Bunting</string>
-	<key>imageStyle</key>
-	<integer>4</integer>
-	<key>name</key>
-	<string>Smoked Day</string>
-	<key>resultPaddingSize</key>
-	<integer>0</integer>
-	<key>resultSelectedBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgxW8bz8Bg81lcD+D4XpUP4Y=
-	</data>
-	<key>resultSelectedSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAg4/CNT+G
-	</data>
-	<key>resultSelectedTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAAYY=
-	</data>
-	<key>resultSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAgwrXIz6G
-	</data>
-	<key>resultSubtextFont</key>
-	<string>Menlo</string>
-	<key>resultSubtextFontSize</key>
-	<integer>1</integer>
-	<key>resultTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAgzMzMz+G
-	</data>
-	<key>resultTextFont</key>
-	<string>Helvetica Neue Light</string>
-	<key>resultTextFontSize</key>
-	<integer>2</integer>
-	<key>scrollbarColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIM2qzw/AQGG
-	</data>
-	<key>searchBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg+T4+j2DgIsIPoMa67I+AIY=
-	</data>
-	<key>searchFont</key>
-	<string>Helvetica Neue Light</string>
-	<key>searchFontSize</key>
-	<integer>4</integer>
-	<key>searchForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAAYY=
-	</data>
-	<key>searchPaddingSize</key>
-	<integer>0</integer>
-	<key>separatorColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/SFhz0BAACG
-	</data>
-	<key>shortcutColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4sp1z6D02fVPoOHxPA+g4/CdT6G
-	</data>
-	<key>shortcutFont</key>
-	<string>Helvetica Neue Light</string>
-	<key>shortcutFontSize</key>
-	<integer>1</integer>
-	<key>shortcutSelectedColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIO9vDw/AYNmZuY+hg==
-	</data>
-	<key>uid</key>
-	<string>alfred.theme.custom.7CEC4AE8-3D66-480A-9359-B2D145C1AB5E</string>
-	<key>widthSize</key>
-	<integer>2</integer>
-</dict>
-</plist>
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#0000007B",
+        "font" : "Menlo",
+        "color" : "#00000046"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#0000005B"
+      },
+      "backgroundSelected" : "#FEFFFFAD",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#000000B2"
+      },
+      "iconPaddingHorizontal" : 12,
+      "paddingVertical" : 7,
+      "iconSize" : 32
+    },
+    "search" : {
+      "paddingVertical" : 9,
+      "background" : "#FEFFFF75",
+      "spacing" : 0,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#BFF6ACFF"
+    },
+    "window" : {
+      "color" : "#DAE8FF67",
+      "paddingHorizontal" : 0,
+      "width" : 500,
+      "borderPadding" : 19,
+      "borderColor" : "#FEFFFF08",
+      "blur" : 37,
+      "roundness" : -17,
+      "paddingVertical" : 0
+    },
+    "credit" : "qbunt",
+    "separator" : {
+      "color" : "#00F90000",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#000000FF",
+      "thickness" : 2
+    },
+    "name" : "Smoked Day"
+  }
+}
