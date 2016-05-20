@@ -5,7 +5,7 @@
       "subtext" : {
         "size" : 11,
         "colorSelected" : "#D5D5D5CD",
-        "font" : "Source Code Pro",
+        "font" : "Menlo",
         "color" : "#FEFFFF26"
       },
       "shortcut" : {
@@ -18,7 +18,7 @@
       "text" : {
         "size" : 16,
         "colorSelected" : "#FEFFFFFF",
-        "font" : "Helvetica Neue Light",
+        "font" : "System Light",
         "color" : "#BBBBBB84"
       },
       "iconPaddingHorizontal" : 12,
@@ -32,7 +32,7 @@
       "text" : {
         "size" : 36,
         "colorSelected" : "#000000FF",
-        "font" : "Helvetica Neue Light",
+        "font" : "System Light",
         "color" : "#FEFFFFD8"
       },
       "backgroundSelected" : "#BFF6ACFF"
@@ -43,7 +43,7 @@
       "width" : 500,
       "borderPadding" : 19,
       "borderColor" : "#FEFFFF08",
-      "blur" : 30,
+      "blur" : 17,
       "roundness" : -17,
       "paddingVertical" : 0
     },
