@@ -1,4 +1,4 @@
-Smoked Alfred Theme
+Smoked Alfred Theme 🔥💨
 ======
 Simple subtle theme series for [Alfred 3](http://www.alfredapp.com/)
 
