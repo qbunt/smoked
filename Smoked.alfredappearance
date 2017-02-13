@@ -5,57 +5,57 @@
       "subtext" : {
         "size" : 11,
         "colorSelected" : "#D5D5D5CD",
-        "font" : "Menlo",
+        "font" : "Avenir Next",
         "color" : "#FEFFFF26"
       },
       "shortcut" : {
-        "size" : 14,
+        "size" : 13,
         "colorSelected" : "#45F900FF",
-        "font" : "Helvetica Neue Light",
+        "font" : "Avenir Next",
         "color" : "#FEFFFF6D"
       },
-      "backgroundSelected" : "#0A090A99",
+      "backgroundSelected" : "#000000FF",
       "text" : {
-        "size" : 16,
+        "size" : 15,
         "colorSelected" : "#FEFFFFFF",
-        "font" : "System Light",
+        "font" : "Avenir Next",
         "color" : "#BBBBBB84"
       },
       "iconPaddingHorizontal" : 12,
       "paddingVertical" : 7,
-      "iconSize" : 32
+      "iconSize" : 39
     },
     "search" : {
-      "paddingVertical" : 9,
-      "background" : "#29306C00",
+      "paddingVertical" : 6,
+      "background" : "#0B0D2000",
       "spacing" : 0,
       "text" : {
-        "size" : 36,
+        "size" : 51,
         "colorSelected" : "#000000FF",
-        "font" : "System Light",
-        "color" : "#FEFFFFD8"
+        "font" : "Avenir Next",
+        "color" : "#FCFFFF7F"
       },
       "backgroundSelected" : "#BFF6ACFF"
     },
     "window" : {
-      "color" : "#1D2135EA",
+      "color" : "#181B2CEA",
       "paddingHorizontal" : 0,
-      "width" : 500,
-      "borderPadding" : 19,
-      "borderColor" : "#FEFFFF08",
+      "width" : 539,
+      "borderPadding" : 40,
+      "borderColor" : "#A9A9A905",
       "blur" : 17,
-      "roundness" : -17,
+      "roundness" : -63,
       "paddingVertical" : 0
     },
     "credit" : "qbunt",
     "separator" : {
-      "color" : "#00F90000",
+      "color" : "#00000000",
       "thickness" : 0
     },
     "scrollbar" : {
       "color" : "#45F900FF",
-      "thickness" : 2
+      "thickness" : 1
     },
-    "name" : "Smoked"
+    "name" : "Smoked (v2)"
   }
 }
